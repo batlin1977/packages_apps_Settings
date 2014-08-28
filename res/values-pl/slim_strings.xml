@@ -894,4 +894,8 @@
     <string name="advanced_reboot_show_always">Pokaż zawsze</string>
     <string name="sound_lock_volume_keys_title">Zablokuj klawisze głośności</string>
     <string name="sound_lock_volume_keys_summary">Uniemożliwia przypadkową zmianę trybu dyskretnego naciskając klawisze głośności</string>
+
+    <!-- Advanced, Device specific (DeviceParts) settings  -->
+    <string name="device_settings_title">Ustawienia NovaThor</string>
+
 </resources>
