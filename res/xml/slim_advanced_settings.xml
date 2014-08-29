@@ -32,15 +32,11 @@
 
     <PreferenceScreen
         android:title="@string/performance_settings_title"
-        android:fragment="com.brewcrewfoo.performance.activities.MainActivity">
-    </PreferenceScreen>
+        android:fragment="com.android.settings.slim.PerformanceSettings" />
 
     <PreferenceScreen
         android:title="@string/superuser"
         android:fragment="com.koushikdutta.superuser.PolicyNativeFragment" />
-        
-    </PreferenceScreen>
-
 
     <PreferenceCategory
         android:key="advanced_settings_options_prefs"
