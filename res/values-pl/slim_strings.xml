@@ -43,7 +43,7 @@
     <string name="navigation_settings_title">Nawigacja</string>
     <string name="slim_center_title">Centrum Slim</string>
     <!-- Advanced, Device specific (DeviceParts) settings  -->
-    <string name="device_settings_title">Urządzenie</string>
+    <string name="device_settings_title">Ustawienia NovaThor</string>
 
     <!-- Slim Shortcuts -->
     <string name="slim_shortcut_picker">Akcje Slim</string>
